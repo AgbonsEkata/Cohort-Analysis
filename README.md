@@ -7,6 +7,9 @@ This project focuses on retention based analysis. Depending on your type of coho
 
 The data from the time based cohort will be used to do a retention based analysis. The data from the time based cohort was used to do a retention based analysis which was then visualised in Tableau
 
+##Dashboard
+[Dashboard Here](https://public.tableau.com/app/profile/agbons.ekata.inuaghata/viz/CohortRetentionDashboard_16778606125740/CohortRetentionDashboard)
+
 
 ## Dataset
 
