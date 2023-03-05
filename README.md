@@ -1,4 +1,4 @@
-# Cohort-Analysis
+# Cohort Retention Analysis
 
 A Cohort analysis is used to understand the behavior of customers you do business with. You do it to see patterns and trends. A cohort is basically a group of people with something in common or common characteristics. A cohort analysis is simply an analysis of several different cohorts to get a better understanding of behaviors, patterns, and trends. 
 
